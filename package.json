@@ -1,0 +1,22 @@
+{
+  "name": "ajax-hacker",
+  "version": "1.0.0",
+  "description": "hack your ajax",
+  "main": "ajax-hacker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BboyAwey/ajax-hacker.git"
+  },
+  "keywords": [
+    "ajax"
+  ],
+  "author": "bboyawey@sina.cn",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/BboyAwey/ajax-hacker/issues"
+  },
+  "homepage": "https://github.com/BboyAwey/ajax-hacker#readme"
+}
