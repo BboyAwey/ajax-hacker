@@ -22,7 +22,7 @@ var ajaxHacker = require('ajax-hacker')
 Or you can just link ajax-hacker with a script tag, In this way, an Object called ajaxHacker have been insert into global object.
 
 ```html
-<script src="../ajax-maanager/dist/ajax-manager.js"></script>
+<script src="./ajax-hacker.js"></script>
 ```
 
 And you can use it like this below:
