@@ -1,6 +1,6 @@
 {
   "name": "ajax-hacker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hack your ajax",
   "main": "ajax-hacker.js",
   "scripts": {
