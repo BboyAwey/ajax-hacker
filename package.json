@@ -11,7 +11,11 @@
     "url": "git+https://github.com/BboyAwey/ajax-hacker.git"
   },
   "keywords": [
-    "ajax"
+    "ajax",
+    "xhr",
+    "XMLHttpRequest",
+    "ActiveXObject",
+    "XDomainRequest"
   ],
   "author": "bboyawey@sina.cn",
   "license": "GPL-3.0",
